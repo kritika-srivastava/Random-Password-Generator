@@ -12,7 +12,7 @@
 *This project demonstrates a simple basic password generator with randomized passwords of varying length and type.*
 
 ## Technical Stack
--pyQt5
+-PyQt5
 ###### -Qt Designer
 ###### -Anaconda
 ###### -Python Libraries
@@ -49,5 +49,10 @@ If everything worked so far, the GUI should open up and look like this:
 &nbsp;
 
 ### <div align="center"><img src="photos/difficult%20pwd.PNG">
+&nbsp
+        
+## References
+#### -[GUI Application Detailed tutorial](https://www.learnpyqt.com/examples/simple-sales-tax-calculator/)
+#### -[PyQt5 Menubar Tutorial](https://techwithtim.net/tutorials/pyqt5-tutorial/menubar/)
 
 
