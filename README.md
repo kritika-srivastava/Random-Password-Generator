@@ -10,7 +10,9 @@
 &nbsp;
 
 *This project demonstrates a simple basic password generator with randomized passwords of varying length and type.*
+&nbsp;
 
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/LICENSE)
 ## Technical Stack
 -PyQt5
 ###### -Qt Designer
