@@ -1,9 +1,6 @@
-
-# C:\Users\Kritika\Desktop\VSC\python\Random-Password-Generator\GUI.py
 # Kritika Srivastava
 # April 19, 2020
 # Final GUI code 
-# Addition of comments
 
 import sys
 from PyQt5 import QtCore, QtGui, QtWidgets, uic
