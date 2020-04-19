@@ -148,9 +148,9 @@ p, li { white-space: pre-wrap; }
     <property name="title">
      <string>(Level 1)Easy Password</string>
     </property>
-    <addaction name="separator"/>
-    <addaction name="actionSmall_Alphabets"/>
-    <addaction name="actionCapital_Alphabets"/>
+    <addaction name="actionSmall_Letters"/>
+    <addaction name="actionCapital_Letters"/>
+    <addaction name="actionNumbers"/>
     <addaction name="actionMixture_of_Alphabets"/>
    </widget>
    <widget class="QMenu" name="menuMedium_Password_Level_2">
@@ -164,7 +164,7 @@ p, li { white-space: pre-wrap; }
      <string>(Level 3)Difficult Password </string>
     </property>
     <addaction name="separator"/>
-    <addaction name="actionAlphabets_Symbols_numbers"/>
+    <addaction name="actionAlphabets_Numbers_and_Symbols"/>
    </widget>
    <addaction name="menuSimple_Password"/>
    <addaction name="menuMedium_Password_Level_2"/>
@@ -182,28 +182,93 @@ p, li { white-space: pre-wrap; }
    </attribute>
   </widget>
   <action name="actionAlphabets_Symbols_numbers">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
    <property name="text">
     <string>Alphabets,Numbers and Special Characters</string>
    </property>
   </action>
   <action name="actionSmall_Alphabets">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
    <property name="text">
     <string>Small Alphabets</string>
    </property>
   </action>
   <action name="actionCapital_Alphabets">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
    <property name="text">
     <string>Capital Alphabets</string>
    </property>
   </action>
   <action name="actionMixture_of_Alphabets">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Mixture of Alphabets</string>
    </property>
+   <property name="autoRepeat">
+    <bool>false</bool>
+   </property>
   </action>
   <action name="actionAlphabets_and_Numbers">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
    <property name="text">
     <string>Alphabets and Numbers</string>
+   </property>
+   <property name="autoRepeat">
+    <bool>false</bool>
+   </property>
+  </action>
+  <action name="actionNumbers">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Numbers</string>
+   </property>
+   <property name="autoRepeat">
+    <bool>false</bool>
+   </property>
+  </action>
+  <action name="actionAlphabets_Numbers_and_Symbols">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Alphabets_Numbers_and_Symbols</string>
+   </property>
+   <property name="autoRepeat">
+    <bool>false</bool>
+   </property>
+  </action>
+  <action name="actionSmall_Letters">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Small Letters</string>
+   </property>
+   <property name="autoRepeat">
+    <bool>false</bool>
+   </property>
+  </action>
+  <action name="actionCapital_Letters">
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Capital Letters</string>
+   </property>
+   <property name="autoRepeat">
+    <bool>false</bool>
    </property>
   </action>
  </widget>
