@@ -37,10 +37,10 @@
 You can get the source code at my [Github Page](https://github.com/kritika-srivastava/Random-Password-Generator)
 &nbsp;
 
-Although I have specified the maximum limit of words in the QtDesigner SpinBox as 300, u can change the value by opening the [UI file](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/MainWindow.ui) in the QtDesigner.
+Although I have specified the maximum limit of words in the QtDesigner SpinBox as 300, you can change the value by opening the [UI file](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/MainWindow.ui) in the QtDesigner.
 &nbsp;
 
-As of now, this project runs on Python 3. Make sure that PyQt5 should be installed in any of your python distributions. To start the program with the GUI (assuming all dependencies installed) run the GUI.py file.
+As of now, this project runs on Python 3.x . Make sure that PyQt5 should be installed in any of your python distributions. To start the program with the GUI (assuming all dependencies installed) run the GUI.py file.
 If everything worked so far, the GUI should open up and look like this:
 &nbsp;
 
