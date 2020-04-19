@@ -4,7 +4,7 @@
 #### *Welcome to Random Password Generation’s documentation! Here I shall give an overview of all the things you need to know to get started with this project.*
 &nbsp;
 
-![](photos/Password%20Generator.gif)<div align="center">
+![](photos/Password%20Generator.gif)
 &nbsp;
 
 &nbsp;
