@@ -45,9 +45,9 @@ If everything worked so far, the GUI should open up and look like this:
 *Here are a few more snippets from the GUI:*
 &nbsp;
 
-### <div align="center"><img src="photos/easy%20pwd.jpg">
+### <div align="center"><img src="photos/easy%20pwd.PNG">
 &nbsp;
 
-### <div align="center"><img src="photos/difficult%20pwd.jpg">
+### <div align="center"><img src="photos/difficult%20pwd.PNG">
 
 
