@@ -44,16 +44,16 @@ As of now, this project runs on Python 3. Make sure that PyQt5 should be install
 If everything worked so far, the GUI should open up and look like this:
 &nbsp;
 
-<div align="center"><img src="photos/Capture.PNG">
+<img src="photos/Capture.PNG">
 &nbsp;
   
 *Here are a few more snippets from the GUI:*
 &nbsp;
 
-<div align="center"><img src="photos/easy%20pwd.PNG">
+<img src="photos/easy%20pwd.PNG">
 &nbsp;
 
-<div align="center"><img src="photos/difficult%20pwd.PNG">
+<img src="photos/difficult%20pwd.PNG">
 &nbsp;
         
 ## References
