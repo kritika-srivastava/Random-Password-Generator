@@ -47,15 +47,13 @@ If everything worked so far, the GUI should open up and look like this:
 <img src="photos/Capture.PNG">
 &nbsp;
   
-*Here are a few more snippets from the GUI:*
+In order to compile the file in an executable, open anaconda prompt and. change the directory to the one that contains GUI.py file. Now type the following command :
+``` 
+pyinstaller.exe -y -F --distpath="." GUI.py
+``` 
+The precompiled exe file can be found in the release section of this repository.
 &nbsp;
 
-<img src="photos/easy%20pwd.PNG">
-&nbsp;
-
-<img src="photos/difficult%20pwd.PNG">
-&nbsp;
-        
 ## References
 #### -[GUI Application Detailed tutorial](https://www.learnpyqt.com/examples/simple-sales-tax-calculator/)
 #### -[PyQt5 Menubar Tutorial](https://techwithtim.net/tutorials/pyqt5-tutorial/menubar/)
