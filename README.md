@@ -47,7 +47,7 @@ If everything worked so far, the GUI should open up and look like this:
 <img src="photos/Capture.PNG">
 &nbsp;
   
-In order to compile the file in an executable, open anaconda prompt and. change the directory to the one that contains GUI.py file. Now type the following command :
+In order to compile the file in an executable, open anaconda prompt and change the directory to the one that contains GUI.py file. Now type the following command :
 ``` 
 pyinstaller.exe -y -F --distpath="." GUI.py
 ``` 
