@@ -1,6 +1,7 @@
 # Random-Password-Generator
 &nbsp;
-
+## [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/LICENSE)![Project Status](https://img.shields.io/badge/Project-Completed-orange)[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+## ![Python Badge](https://img.shields.io/badge/Python-3.5%7C3.6%7C3.7-success)
 #### *Welcome to Random Password Generation’s documentation! Here I shall give an overview of all the things you need to know to get started with this project.*
 &nbsp;
 
@@ -12,7 +13,7 @@
 *This project demonstrates a simple basic password generator with randomized passwords of varying length and type.*
 &nbsp;
 
-[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/kritika-srivastava/Random-Password-Generator/blob/master/LICENSE)
+
 ## Technical Stack
 ###### -PyQt5
 ###### -Qt Designer
